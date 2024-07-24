@@ -46,7 +46,7 @@ background: linear-gradient(0deg, rgb(62, 62, 62) 0%, #051926 100%);
 
 @media screen and (max-width: 480px) {
   .master {
-    padding-top: 80% ;
+    padding-top: 65% ;
   }
 }
 
